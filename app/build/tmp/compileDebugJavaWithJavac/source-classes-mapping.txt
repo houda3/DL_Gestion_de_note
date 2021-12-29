@@ -1,0 +1,5 @@
+com/example/dl_gestion_de_note/BuildConfig.java
+ com.example.dl_gestion_de_note.BuildConfig
+com/example/dl_gestion_de_note/MainActivity.java
+ com.example.dl_gestion_de_note.MainActivity
+ com.example.dl_gestion_de_note.MainActivity$1
